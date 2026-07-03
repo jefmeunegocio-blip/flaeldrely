@@ -26,14 +26,6 @@ export type Database = {
           hero_title: string | null
           id: number
           logo_url: string | null
-          phone: string | null
-          email: string | null
-          address: string | null
-          whatsapp: string | null
-          instagram: string | null
-          facebook: string | null
-          linkedin: string | null
-          hours: string | null
           testimonial_1_image_url: string | null
           testimonial_1_name: string | null
           testimonial_1_role: string | null
@@ -60,14 +52,6 @@ export type Database = {
           hero_title?: string | null
           id?: number
           logo_url?: string | null
-          phone?: string | null
-          email?: string | null
-          address?: string | null
-          whatsapp?: string | null
-          instagram?: string | null
-          facebook?: string | null
-          linkedin?: string | null
-          hours?: string | null
           testimonial_1_image_url?: string | null
           testimonial_1_name?: string | null
           testimonial_1_role?: string | null
@@ -94,14 +78,6 @@ export type Database = {
           hero_title?: string | null
           id?: number
           logo_url?: string | null
-          phone?: string | null
-          email?: string | null
-          address?: string | null
-          whatsapp?: string | null
-          instagram?: string | null
-          facebook?: string | null
-          linkedin?: string | null
-          hours?: string | null
           testimonial_1_image_url?: string | null
           testimonial_1_name?: string | null
           testimonial_1_role?: string | null
