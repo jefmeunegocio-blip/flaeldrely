@@ -1,0 +1,8 @@
+{
+  "name": "Elderly",
+  "description": "Cuidado humanizado e especializado para idosos. Atendimento domiciliar, hospitalar e contínuo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
